@@ -25,6 +25,6 @@ on Firestore databse.
 Steps:
 1. Click on the download link which goes to the page. Click on the Download button.
 2. Click on Download when Android ask for your confirmation.
-3. If it asked, give permission for download file from Unknown Source.
-4. Click to install the file.
+3. If it asked, give permission for downloading file from Unknown Source.
+4. Confirm to download the file and install.
 

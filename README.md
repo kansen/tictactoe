@@ -10,3 +10,12 @@ on Firestore databse.
 * User needs to use a working gmail account to signin.
 * Firebase authentication using Google Sign In
 * Firebase Android Setup
+
+![Screenshot](screenshots/login.png)
+![Screenshot](screenshots/google_signin.png)
+![Screenshot](screenshots/game_page.png)
+![Screenshot](screenshots/game_no_win.png)
+![Screenshot](screenshots/game_win.png)
+![Screenshot](screenshots/scoreboard.png)
+![Screenshot](screenshots/game_over.png)
+

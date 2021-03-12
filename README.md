@@ -22,4 +22,9 @@ on Firestore databse.
 
 ### App Download
 [TicTacToe Download to Android](https://github.com/kansen/tictactoe/blob/main/dist/app-release.apk)
+Steps:
+1. Click on the download link which goes to the page. Click on the Download button.
+2. Click on Download when Android ask for your confirmation.
+3. If it asked, give permission for download file from Unknown Source.
+4. Click to install the file.
 

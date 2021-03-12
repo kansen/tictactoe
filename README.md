@@ -21,4 +21,4 @@ on Firestore databse.
 ![Screenshot](screenshots/game_over.png)
 
 ### App Download
-![File Name](https://github.com/kansen/tictactoe/blob/main/dist/app-release.apk)
+![Filename](https://github.com/kansen/tictactoe/blob/main/dist/app-release.apk)

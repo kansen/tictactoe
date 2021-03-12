@@ -11,6 +11,7 @@ on Firestore databse.
 * Firebase authentication using Google Sign In
 * Firebase Android Setup
 
+### App Demo
 ![Screenshot](screenshots/login.png)
 ![Screenshot](screenshots/google_signin.png)
 ![Screenshot](screenshots/game_page.png)
@@ -19,3 +20,5 @@ on Firestore databse.
 ![Screenshot](screenshots/scoreboard.png)
 ![Screenshot](screenshots/game_over.png)
 
+### App Download
+![File Name](https://github.com/kansen/tictactoe/blob/main/dist/app-release.apk)

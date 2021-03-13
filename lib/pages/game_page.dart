@@ -224,9 +224,10 @@ class _GamePageState extends State<GamePage> {
                   .where("user_id", isEqualTo: user.email)
                   .orderBy('win_count').snapshots(),
               builder: (BuildContext context, AsyncSnapshot<QuerySnapshot> snapshot) {
-                if (snapshot.hasData) {
-                  setUserData(snapshot.data.docs);
+                if (!snapshot.hasData) {
+                  return CircularProgressIndicator();
                 }
+                setUserData(snapshot.data?.docs);
                 final List<QueryDocumentSnapshot> children = snapshot.data.docs;
                 setUserData(children);
                 return SizedBox(height: 10,);

@@ -26,6 +26,7 @@
 .dart_tool/
 .flutter-plugins
 .flutter-plugins-dependencies
+.gradle
 .packages
 .pub-cache/
 .pub/
